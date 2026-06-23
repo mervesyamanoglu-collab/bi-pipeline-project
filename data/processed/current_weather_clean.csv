@@ -1,0 +1,9 @@
+city,country,temperature_c,humidity_percent,condition,wind_speed_m_s,timestamp
+Munich,DE,32.22,40,Clouds,2.68,2026-06-23 13:30:17
+Berlin,DE,28.35,40,Clouds,2.68,2026-06-23 13:25:01
+Paris,FR,36.36,36,Clear,2.61,2026-06-23 13:29:08
+London,GB,32.25,46,Clouds,2.68,2026-06-23 13:24:34
+Rome,IT,22.78,82,Clouds,4.0,2026-06-23 13:28:27
+Madrid,ES,36.89,16,Clouds,2.24,2026-06-23 13:26:01
+Vienna,AT,30.13,46,Clouds,4.47,2026-06-23 13:28:22
+Amsterdam,NL,27.76,60,Clouds,1.79,2026-06-23 13:28:10

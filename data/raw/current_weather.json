@@ -1,0 +1,369 @@
+[
+    {
+        "coord": {
+            "lon": 11.5755,
+            "lat": 48.1374
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 32.22,
+            "feels_like": 32.6,
+            "temp_min": 31.32,
+            "temp_max": 33.11,
+            "pressure": 1019,
+            "humidity": 40,
+            "sea_level": 1019,
+            "grnd_level": 957
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.68,
+            "deg": 0,
+            "gust": 3.13
+        },
+        "clouds": {
+            "all": 99
+        },
+        "dt": 1782221417,
+        "sys": {
+            "type": 2,
+            "id": 2002112,
+            "country": "DE",
+            "sunrise": 1782184433,
+            "sunset": 1782242265
+        },
+        "timezone": 7200,
+        "id": 2867714,
+        "name": "Munich",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 13.4105,
+            "lat": 52.5244
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 28.35,
+            "feels_like": 27.98,
+            "temp_min": 26.75,
+            "temp_max": 30.48,
+            "pressure": 1021,
+            "humidity": 40,
+            "sea_level": 1021,
+            "grnd_level": 1015
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.68,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 17
+        },
+        "dt": 1782221101,
+        "sys": {
+            "type": 2,
+            "id": 2009543,
+            "country": "DE",
+            "sunrise": 1782182610,
+            "sunset": 1782243207
+        },
+        "timezone": 7200,
+        "id": 2950159,
+        "name": "Berlin",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 2.3488,
+            "lat": 48.8534
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 36.36,
+            "feels_like": 38.49,
+            "temp_min": 36.25,
+            "temp_max": 38.38,
+            "pressure": 1017,
+            "humidity": 36,
+            "sea_level": 1017,
+            "grnd_level": 1008
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.61,
+            "deg": 87,
+            "gust": 1.88
+        },
+        "clouds": {
+            "all": 9
+        },
+        "dt": 1782221348,
+        "sys": {
+            "type": 2,
+            "id": 66795,
+            "country": "FR",
+            "sunrise": 1782186445,
+            "sunset": 1782244682
+        },
+        "timezone": 7200,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 32.25,
+            "feels_like": 33.88,
+            "temp_min": 31.12,
+            "temp_max": 33.32,
+            "pressure": 1018,
+            "humidity": 46,
+            "sea_level": 1018,
+            "grnd_level": 1014
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.68,
+            "deg": 163,
+            "gust": 6.26
+        },
+        "clouds": {
+            "all": 12
+        },
+        "dt": 1782221074,
+        "sys": {
+            "type": 2,
+            "id": 2075535,
+            "country": "GB",
+            "sunrise": 1782186212,
+            "sunset": 1782246103
+        },
+        "timezone": 3600,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -85.1647,
+            "lat": 34.257
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 22.78,
+            "feels_like": 23.25,
+            "temp_min": 22.15,
+            "temp_max": 23.51,
+            "pressure": 1018,
+            "humidity": 82,
+            "sea_level": 1018,
+            "grnd_level": 992
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4,
+            "deg": 292,
+            "gust": 6.9
+        },
+        "clouds": {
+            "all": 41
+        },
+        "dt": 1782221307,
+        "sys": {
+            "type": 2,
+            "id": 2038061,
+            "country": "US",
+            "sunrise": 1782210575,
+            "sunset": 1782262565
+        },
+        "timezone": -14400,
+        "id": 4219762,
+        "name": "Rome",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -3.7026,
+            "lat": 40.4165
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 36.89,
+            "feels_like": 34.64,
+            "temp_min": 36.32,
+            "temp_max": 37.37,
+            "pressure": 1014,
+            "humidity": 16,
+            "sea_level": 1014,
+            "grnd_level": 942
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.24,
+            "deg": 134,
+            "gust": 4.92
+        },
+        "clouds": {
+            "all": 13
+        },
+        "dt": 1782221161,
+        "sys": {
+            "type": 2,
+            "id": 2084029,
+            "country": "ES",
+            "sunrise": 1782189911,
+            "sunset": 1782244122
+        },
+        "timezone": 7200,
+        "id": 3117735,
+        "name": "Madrid",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 16.3721,
+            "lat": 48.2085
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 30.13,
+            "feels_like": 30.63,
+            "temp_min": 28.82,
+            "temp_max": 32.08,
+            "pressure": 1018,
+            "humidity": 46,
+            "sea_level": 1018,
+            "grnd_level": 992
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.47,
+            "deg": 40,
+            "gust": 8.05
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1782221302,
+        "sys": {
+            "type": 2,
+            "id": 2037452,
+            "country": "AT",
+            "sunrise": 1782183262,
+            "sunset": 1782241133
+        },
+        "timezone": 7200,
+        "id": 2761369,
+        "name": "Vienna",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 4.8897,
+            "lat": 52.374
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 27.76,
+            "feels_like": 29.1,
+            "temp_min": 26.05,
+            "temp_max": 29.38,
+            "pressure": 1021,
+            "humidity": 60,
+            "sea_level": 1021,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.79,
+            "deg": 92,
+            "gust": 3.58
+        },
+        "clouds": {
+            "all": 61
+        },
+        "dt": 1782221290,
+        "sys": {
+            "type": 2,
+            "id": 2012552,
+            "country": "NL",
+            "sunrise": 1782184709,
+            "sunset": 1782245198
+        },
+        "timezone": 7200,
+        "id": 2759794,
+        "name": "Amsterdam",
+        "cod": 200
+    }
+]
